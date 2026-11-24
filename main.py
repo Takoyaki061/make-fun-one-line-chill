@@ -8,7 +8,7 @@ and stops.
 
 import os
 
-LINE = "The baby monitor breathed steadily from the empty nursery, and when I held my breath to listen, it stopped."
+LINE = "The baby monitor in the empty nursery breathed steadily, and when I held my breath to listen, it stopped."
 
 
 def main():

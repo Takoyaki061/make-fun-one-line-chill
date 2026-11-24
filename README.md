@@ -6,7 +6,7 @@
 
 A single line of horror for make.fun's "One Line, One Chill" bounty: one sentence, under 200 characters, meant to frighten a reader in one breath. The program writes the line to `/output/entry.txt`.
 
-> The baby monitor breathed steadily from the empty nursery, and when I held my breath to listen, it stopped.
+> The baby monitor in the empty nursery breathed steadily, and when I held my breath to listen, it stopped.
 
 ## Run it
 
